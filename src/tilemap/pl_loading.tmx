@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="40" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="pokemon_tileset_from_public_tiles_by_chaoticcherrycake-d5xdb0y" tilewidth="16" tileheight="16" tilecount="21000">
+  <image source="../../../../Downloads/pokemon_tileset_from_public_tiles_by_chaoticcherrycake-d5xdb0y.png" width="2240" height="2400"/>
+  <terraintypes>
+   <terrain name="level-sand" tile="4622"/>
+  </terraintypes>
+  <tile id="4481" terrain="0,0,0,"/>
+  <tile id="4482" terrain="0,0,,"/>
+  <tile id="4483" terrain="0,0,,0"/>
+  <tile id="4621" terrain="0,,0,"/>
+  <tile id="4623" terrain=",0,,0"/>
+  <tile id="4761" terrain="0,,0,0"/>
+  <tile id="4762" terrain=",,0,0"/>
+  <tile id="4763" terrain=",0,0,0"/>
+  <tile id="4901" terrain=",,,0"/>
+  <tile id="4902" terrain=",,0,"/>
+  <tile id="5041" terrain=",0,,"/>
+  <tile id="5042" terrain="0,,,"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMALEOUCx0fKd1hyIIkkf+d9URBQAAAAAAAEMr3zfcsD/5AOYOywQCXg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="50" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2MlOFEEcx/E/KE2iAia4wCweNGoizMDg8gAqs8ETuOsjKOByUQ9eFHA5mKgHV3A5aBCiMggmPoAKqI+ggOJFvarfgyQ9nanpZXp6epL5JZ+kMvR0/6umuqvouhqRejSgzkL7Bm7ilqG9WRPZgq2a+hgrbSs15GrbvY6+Xn17BM8xqqmPsdJ2OgZ2r6OvV9/WR3WMlbbTMbB7HbOsWGl+TL44HQO3c73AflRSSTllW1ykBa2IIIo2tCOGjnipK7SWF9T5Eq8wjgwm8BqTmCqTfuxOiOzBXnQijgSSSCGdKHWF6jSyPq7BWryjzvf4gGnMYBYf8QmffdyP29R/B3exLymyHwdwEIdwGEdwFMeSpa5WnRbWx1ZE8IU6v2IO81jAN3zHIn74uB/6HE+JnEAPetGHkziF0ziTyp6Hfs0f6vwLSYtUoRrLsBw10NLZ89CvuUidl9CPAQziMq7gKq6ls+ehX9LAPm+1bq+3rktkPZrQjACCCCGMDV3Or3XBwz3lPeq8jwcYwjAe4hEe40kB/fAy0W72IWhHDB3Yjh3YiV3dhV8jwn0VRVsR768MdQ4x74cxSXsKb3SfvXWhH+PUn8FEkZ8TsVp+h1rzz1QZXZX/752MRxwJHz0nnGSa+mcwq6nfi9jN2P+xK9Xapnov4jSlWttU70WMMa4PqhjXtjGTOe5WnL6nKbfU++x9TK5n2E/G/Rd+l/n4n+U5fg7ndc9zL/cuxcqIR/dkJfbj5f1ttv9w4xyVuVaJKnMBkXksBOx/1859YnWeO92r9ARFetEXLPxcVlK0c4dEqlAdyn/Y0j29kXVxk8X/ddyKse+5xqKf+gcwaNKPpTylD8887oeVNIVFmhEIu3fOf1Wa2DY=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="50" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmLESAUEQRCfZu0DhD4gQ4XsRISNChJ/TwQWbdO1gudm7eVVd1dFUdzDBjEgehkFkBI1DpoE/Js4b+w20hXZB1yl3bzZPkzf2s0pkDi0q3knTm/lUNjZPkzf2F+gK3SreSdOb+VQ2Nk+TN/YxrJOmN/OpbGyeJq+Gd3szn8rG5lnDcrZP2aPLAToW3mlZi6ygdd12ku+4I/8Dehbeo2v4ntjC96QfhEHbCRzHcZy+ovmXlAD7l5QG+5eURq4/jfMfJrg1ph24N07ocG56+F1rC79rnZz4ftvC99s+L2tzbfM=
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="50" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztlbdOxEAURS8gWwIvQQJE+gSg3PAJG0SqSRWpJlWkmtRvA3wF8CmkmlSRarhoNc1qHkKWV7NjvSOdxpK9943f9QKKokj0BUB/4O73ewN7hokiMEmn6DSdKf79nHPef+FwjrPAnuGGuW/pHb2nD8Ic5hzGQmA8bHxeidHQnmGpBCzTFbpK10r2+805uN6rS+a/otd1c7wx9zv9oJ/0S5jDnIPrvZLYKQO7dI/u04Ny7Xp9n8w5uN4rifYK0EEjmqGdldp1qU+2d9rMSH3yDalPPiP99/iG1BXfSGNXfN8v05Ek96s7AnqiZJ71X0xHfN8v0xHfv8WmI/oNbi7S+A1WlEbTlXGdIBmqns0xmwXm6DxdoItZ14ni8cjcT/SZvtBXT+dYzwEbdJNu0e2c60Tx+P7NnQdaaCtty7tOFI9D5j6ix/SEnno6x0ABGKRDdJiOFFwnUhRFSTc/VXhPkQ==
+  </data>
+ </layer>
+</map>

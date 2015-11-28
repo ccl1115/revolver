@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="pokemon_tileset_from_public_tiles_by_chaoticcherrycake-d5xdb0y" tilewidth="16" tileheight="16" margin="16" tilecount="20711">
+  <image source="../../../../Downloads/pokemon_tileset_from_public_tiles_by_chaoticcherrycake-d5xdb0y.png" width="2240" height="2400"/>
+  <terraintypes>
+   <terrain name="grass-sand-road" tile="2086"/>
+   <terrain name="grass" tile="2932"/>
+  </terraintypes>
+  <tile id="1946" terrain=",,,0"/>
+  <tile id="1947" terrain=",,0,0"/>
+  <tile id="1948" terrain=",,0,"/>
+  <tile id="2085" terrain=",0,,0"/>
+  <tile id="2086" terrain="0,0,0,0"/>
+  <tile id="2087" terrain="0,,0,"/>
+  <tile id="2224" terrain=",0,,"/>
+  <tile id="2225" terrain="0,0,,"/>
+  <tile id="2226" terrain="0,,,"/>
+  <tile id="2363" terrain="0,0,0,"/>
+  <tile id="2364" terrain="0,0,,0"/>
+  <tile id="2502" terrain="0,,0,0"/>
+  <tile id="2503" terrain=",0,0,0"/>
+ </tileset>
+ <layer name="tree" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0UcRAgEQRNFhVwTBA8EDsEIJHggeCI5oDxzm8l7Vv3dVz2dVi7RMq0SvUz44p0u6+qPdeqjapG3aDd1ruOWDe3qkpz/a7ceqQzqmaexewysfvNMnff0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/kBc8wLEQ==
+  </data>
+ </layer>
+ <layer name="grass" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt189NwzAYh2Hf0jAIMERZoutRhgCGoGNBpB4qlEQof/BP7nN4bjlYeWV/9umhlBMAAAAAAAAAAAAAAAAAu3ntSjlfvXX113PvHg+lPF199ZrUdttDk/refxq89Jok0SSPJnl+zxJN6hrbI5pkNnk+1F/bvRprokdWk+HMOnfLOe/WG5vvS9321GZdj2M/PlOWcvat6zH8v+H8+hixpJMe63tMfTPVaa6VHvv1mDPV6lOPKj3QY0oLd/WWeqy9qyc00WO79/AWe06P/Szpe+nb6TF1J/9vW7yrW+iRYu699teWemRoaX60QI8semTRI4seWfTIokcWPbLokUWPLHpk0SOLHln0yKJHFj2y6JFFjyx6ZNEjix5Z9MiiRxY9suiRRY8semTRI4seWfTIokcWPbLokUWPLHpk0SOLHln0yKJHFj2y6JGlpR7fcosGpg==
+  </data>
+ </layer>
+</map>
