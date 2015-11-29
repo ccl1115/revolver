@@ -5,7 +5,8 @@
 
   Game.prototype = {
     create: function () {
-      this.input.onDown.add(this.onInputDown, this);
+      var escKey = this.input.keyboard.addKey(Phaser.Keyboard.ESC);
+      escKey.onDown.add(this.onEscKeyDown, this);
     },
 
     update: function () {
@@ -13,6 +14,9 @@
     },
 
     onInputDown: function () {
+    },
+
+    onEscKeyDown: function() {
       this.game.state.start('menu');
     }
   };
